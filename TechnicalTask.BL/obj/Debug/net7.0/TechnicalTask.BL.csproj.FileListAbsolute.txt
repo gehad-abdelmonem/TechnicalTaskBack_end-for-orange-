@@ -1,0 +1,15 @@
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\bin\Debug\net7.0\TechnicalTask.BL.deps.json
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\bin\Debug\net7.0\TechnicalTask.BL.dll
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\bin\Debug\net7.0\TechnicalTask.BL.pdb
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\bin\Debug\net7.0\TechnicalTask.DAL.dll
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\bin\Debug\net7.0\TechnicalTask.DAL.pdb
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\obj\Debug\net7.0\TechnicalTask.BL.csproj.AssemblyReference.cache
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\obj\Debug\net7.0\TechnicalTask.BL.GeneratedMSBuildEditorConfig.editorconfig
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\obj\Debug\net7.0\TechnicalTask.BL.AssemblyInfoInputs.cache
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\obj\Debug\net7.0\TechnicalTask.BL.AssemblyInfo.cs
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\obj\Debug\net7.0\TechnicalTask.BL.csproj.CoreCompileInputs.cache
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\obj\Debug\net7.0\TechnicalTask.BL.csproj.CopyComplete
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\obj\Debug\net7.0\TechnicalTask.BL.dll
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\obj\Debug\net7.0\refint\TechnicalTask.BL.dll
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\obj\Debug\net7.0\TechnicalTask.BL.pdb
+J:\.Net track\c#\Day1\Technical Task\TechnicalTask\TechnicalTask.BL\obj\Debug\net7.0\ref\TechnicalTask.BL.dll
